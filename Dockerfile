@@ -12,4 +12,4 @@ RUN pip install --no-cache-dir -r app/requirements.txt
 
 EXPOSE 5000
 
-CMD ["python", "devops-AC10/com/faculdadeimpacta/calculadora/app_web_start.py"]
+CMD ["python", "app/com/faculdadeimpacta/calculadora/app_web_start.py"]
